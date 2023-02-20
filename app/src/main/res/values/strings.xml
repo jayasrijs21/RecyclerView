@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="sci_name">sci_name</string>
+    <string name="metal_name">metal_name</string>
+    <string name="symbol">symbol</string>
+
+    <string-array name="metal_name">
+        <item>Sodium</item>
+        <item>Potassium</item>
+        <item>Iron</item>
+        <item>Copper</item>
+        <item>Silver</item>
+        <item>Tin</item>
+        <item>Tungsten</item>
+        <item>Gold</item>
+        <item>Mercury</item>
+        <item>Lead</item>
+
+    </string-array>
+
+    <string-array name="sci_name">
+        <item>Natrium</item>
+        <item>Kalium</item>
+        <item>Ferrum</item>
+        <item>Cuprum</item>
+        <item>Argentum</item>
+        <item>Stannum</item>
+        <item>Wolfram</item>
+        <item>Aurum</item>
+        <item>Hydrargyrum</item>
+        <item>Plumbum</item>
+
+
+    </string-array>
+
+    <string-array name="symbol">
+        <item>Na</item>
+        <item>K</item>
+        <item>Fe</item>
+        <item>Cu</item>
+        <item>Ag</item>
+        <item>Sn</item>
+        <item>W</item>
+        <item>Au</item>
+        <item>Hg</item>
+        <item>Pb</item>
+    </string-array>
+
+
+</resources>
